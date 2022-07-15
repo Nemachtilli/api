@@ -1,0 +1,14 @@
+{
+  "name": "nemachtilli",
+  "version": "1.0.0",
+  "description": "Fedex",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nemachtilli <gt.nemachtilli.composer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blueimp-md5": "^2.19.0"
+  }
+}
